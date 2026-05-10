@@ -178,12 +178,3 @@ Detayli teknik rapor icin: [`bda_ve_pow_desifre.md`](bda_ve_pow_desifre.md)
 For the detailed technical report: [`bda_ve_pow_desifre.md`](bda_ve_pow_desifre.md)
 
 ---
-
-## Lisans / License
-
-Bu proje yalnizca egitim ve arastirma amaclidir.  
-This project is for educational and research purposes only.
-
-## Katki / Contributing
-
-PR'ler ve oneriler aciktir. / PRs and suggestions are welcome.
