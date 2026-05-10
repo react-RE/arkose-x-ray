@@ -1,6 +1,8 @@
 **Bu repo, karmaşıklığı giderilmiş javascript kodlarını ve javascript karmaşıklık giderici mjs dosyasını içerir.
 İstediğiniz karmaşık javascript dosyalarını, bu mjs aracı ile karmaşıklığını giderebilirsiniz.
 Onun dışında cleaned_js klasörü altında da bizim sycthe'ta topladığımız karmaşık verilerin karmaşasının çözülmüş halleri bulunmaktadır.**
+                                                           
+**This repository contains minified JavaScript code and an MJS file for minifying JavaScript. You can use this MJS tool to minify any complex JavaScript files you wish. Additionally, the `cleaned_js` folder contains the minified versions of the complex data we collected in Sycthe.**
 
 ---
 
